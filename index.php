@@ -4,6 +4,8 @@
     <title>Aresh Saharkhiz Project Management</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="geo.placename" content="Dubai" /><meta name="geo.position" content="25.191324;55.2851233" /><meta name="geo.region" content="AE" />
+    <meta name="description" content="We are a Dubai based Website Development company that build excellent Dynamic and Ecommerce websites at affordable rates. We also guide new or existing websites on how to market their websites to generate more traffic. Quality and Fast Printing services are also provided. We also cover Abu Dhabi, Sharjah, Ajman, and Fujairah. %"/>
 
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900&display=swap" rel="stylesheet">
 
@@ -47,7 +49,7 @@
 					    </div>
 					    <div class="col-md topper d-flex align-items-center justify-content-end">
 					    	<p class="mb-0 d-block">
-					    		<a href="#" class="btn py-2 px-3 btn-primary">
+					    		<a href="https://wa.me/971562728117?text=Website" class="btn py-2 px-3 btn-primary">
 					    			<span>Free Consulting</span>
 					    		</a>
 					    	</p>
@@ -118,29 +120,31 @@
 							<div class="img" style="background-image: url(images/about.jpg); border"></div>
 							<div class="text">
 								<h3>Read Our Success Story for Inspiration</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-								<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
+								<p>
+    We have been a web design company in Dubai for 10 years offering affordable website development while also keeping up with the technology as the years go by. </p>
+								<p>We have an In-house team based in Dubai who works extensively hard to make sure the clients are satisfied and available through many communication mediums for any queries you may have.
+                  Contact us right away!</p>
 								<p><a href="#" class="btn btn-primary py-3 px-4">Contact us</a></p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-7 wrap-about pr-md-4 ftco-animate">
           	<h2 class="mb-4">Our Main Features</h2>
-						<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
+						<p>Being a Website Development and Marketing Company for more than 10 years in Dubai and working with a wide range of clients, we tailor-make according to your needs.</p>
 						<div class="row mt-5">
 							<div class="col-lg-6">
 								<div class="services active text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-collaboration"></span></div>
 									<div class="text media-body">
-										<h3>Organization</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+										<h3>Dynamic Websites</h3>
+										<p>Equipped with Content Management System, Fast loading, and Creative design based on your requirements. They are mobile and tablet friendly as well.</p>
 									</div>
 								</div>
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
 									<div class="text media-body">
-										<h3>Risk Analysis</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+										<h3>SEO</h3>
+										<p>Search Engine Optimization is an excellent solution to generate leads for your business. We guarantee to make your top keywords prominently visible.</p>
 									</div>
 								</div>
 							</div>
@@ -148,15 +152,15 @@
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
 									<div class="text media-body">
-										<h3>Marketing Strategy</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+										<h3>eCommerce Websites</h3>
+										<p>Our e-commerce solutions including Extensive features, innovative design, and Easy Product and Order Management System help reach more customers online.</p>
 									</div>
 								</div>
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-handshake"></span></div>
 									<div class="text media-body">
-										<h3>Capital Market</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+										<h3>Social Media Marketing</h3>
+										<p>Social Media Marketing is newest and vastly expanding avenue for marketing products and services. Our social media campaigns are highly ROI-driven.</p>
 									</div>
 								</div>
 							</div>
@@ -228,7 +232,8 @@
 				<div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
             <h2 class="mb-4">Our Best Services</h2>
-            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+            <p>
+    Our versatility isn't limited to different sectors, but also the areas we cater to. Our Company can help build websites for the following areas: - Dubai - Abudhabi - Sharjah - Ajman - Al Ain - Ras Al Khaimah - Fujairah - Umm Al Quwain</p>
           </div>
         </div>
 				<div class="row no-gutters">
@@ -397,61 +402,6 @@
     		</div>
 			</div>
 		</section>
-
-
-    <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" style="background-image: url(images/bg_5.jpg);" data-stellar-background-ratio="0.5">
-    	<div class="overlay"></div>
-    	<div class="container">
-    		<div class="row justify-content-end">
-    			<div class="col-md-6 py-5 px-md-5">
-    				<div class="py-md-5">
-		          <div class="heading-section heading-section-white ftco-animate mb-5">
-		            <h2 class="mb-4">Request A Quote</h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-		          </div>
-		          <form action="#" class="appointment-form ftco-animate">
-		    				<div class="d-md-flex">
-			    				<div class="form-group">
-			    					<input type="text" class="form-control" placeholder="First Name">
-			    				</div>
-			    				<div class="form-group ml-md-4">
-			    					<input type="text" class="form-control" placeholder="Last Name">
-			    				</div>
-		    				</div>
-		    				<div class="d-md-flex">
-		    					<div class="form-group">
-			    					<div class="form-field">
-		        					<div class="select-wrap">
-		                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-		                    <select name="" id="" class="form-control">
-		                    	<option value="">Select Guidance</option>
-		                      <option value="">Finance</option>
-		                      <option value="">Business</option>
-		                      <option value="">Auto Loan</option>
-		                      <option value="">Real Estate</option>
-		                      <option value="">Other Services</option>
-		                    </select>
-		                  </div>
-			              </div>
-			    				</div>
-		    					<div class="form-group ml-md-4">
-			    					<input type="text" class="form-control" placeholder="Phone">
-			    				</div>
-		    				</div>
-		    				<div class="d-md-flex">
-		    					<div class="form-group">
-			              <textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Message"></textarea>
-			            </div>
-			            <div class="form-group ml-md-4">
-			              <input type="submit" value="Request A Quote" class="btn btn-white py-3 px-4">
-			            </div>
-		    				</div>
-		    			</form>
-		    		</div>
-    			</div>
-        </div>
-    	</div>
-    </section>
 
 		<section class="ftco-section bg-light">
 			<div class="container">
@@ -697,9 +647,8 @@
         <div class="row">
           <div class="col-md-12 text-center">
 
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+            <p>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by Aresh</p>
           </div>
         </div>
       </div>
