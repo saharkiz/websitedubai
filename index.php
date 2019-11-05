@@ -9,6 +9,20 @@
     <meta name="keywords" content="software dubai, carrefour dubai, shop website, build website, company portal, company website dubai, easy website dubai, web page dubai, android, ios, mobile"/>
     <meta name="author" content="metatags generator">
     <meta name="robots" content="index, follow">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://websitedubai.herokuapp.com/">
+    <meta property="og:title" content="IT Consultant in Dubai | Build eCommerce software">
+    <meta property="og:description" content="We are a Dubai based software Development company that build Dynamic software, Ecommerce websites, Android iOS. We cover Abu Dhabi, Sharjah, Ajman, Fujairah">
+    <meta property="og:image" content="https://websitedubai.herokuapp.com/images/loc.png">
+    <meta property="og:websitedubai.herokuapp.com/">
+
+    <meta property="twitter:image" content="https://websitedubai.herokuapp.com/images/loc.png">
+    <meta name="twitter:site" content="@websitedubai.herokuapp.com">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="IT Consultant in Dubai | Build eCommerce software">
+    <meta name="twitter:description" content="We are a Dubai based software Development company that build Dynamic software, Ecommerce websites, Android iOS. We cover Abu Dhabi, Sharjah, Ajman, Fujairah">
+
     <link rel="canonical" href="https://websitedubai.herokuapp.com/" />
     <link rel="icon" href="images/loc.png" type="image/png" sizes="16x16">
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900&display=swap" rel="stylesheet">
