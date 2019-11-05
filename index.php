@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>A Saharkhiz Project Management | Build eCommerce software</title>
+    <title>IT Consultant in Dubai | Build eCommerce software</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="geo.placename" content="Dubai" /><meta name="geo.position" content="25.191324;55.2851233" /><meta name="geo.region" content="AE" />
@@ -32,7 +32,7 @@
     	<div class="container">
     		<div class="row no-gutters d-flex align-items-center align-items-stretch">
     			<div class="col-md-4 d-flex align-items-center py-4">
-    				<a class="navbar-brand" href="/">ATSaharkhiz</a>
+    				<a class="navbar-brand" title="IT consultant in dubai saharkhiz" href="/">ATSaharkhiz</a>
     			</div>
 	    		<div class="col-lg-8 d-block">
 		    		<div class="row d-flex">
@@ -52,7 +52,7 @@
 					    </div>
 					    <div class="col-md topper d-flex align-items-center justify-content-end">
 					    	<p class="mb-0 d-block">
-					    		<a href="https://wa.me/971562728117?text=Website" class="btn py-2 px-3 btn-primary">
+					    		<a title="IT consultant in dubai whatsapp" href="https://wa.me/971562728117?text=Website" class="btn py-2 px-3 btn-primary">
 					    			<span>Free Consulting</span>
 					    		</a>
 					    	</p>
@@ -75,12 +75,12 @@
         </form>
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav mr-auto">
-	        	<li class="nav-item active"><a href="/" class="nav-link pl-0">Home</a></li>
-	        	<li class="nav-item"><a href="/" class="nav-link">About</a></li>
-	        	<li class="nav-item"><a href="/" class="nav-link">Projects</a></li>
-	        	<li class="nav-item"><a href="/" class="nav-link">Services</a></li>
-	        	<li class="nav-item"><a href="/" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="/" class="nav-link">Contact</a></li>
+	        	<li class="nav-item active"><a title="IT consultant in dubai" href="/" class="nav-link pl-0">Home</a></li>
+	        	<li class="nav-item"><a title="IT consultant in dubai about" href="/" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a title="IT consultant in dubai projects" href="/" class="nav-link">Projects</a></li>
+	        	<li class="nav-item"><a title="IT consultant in dubai services" href="/" class="nav-link">Services</a></li>
+	        	<li class="nav-item"><a title="IT consultant in dubai blog" href="/" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a title="IT consultant in dubai contact" href="/" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -95,7 +95,7 @@
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">IT Project Management</span>
             <h1 class="mb-4">IT Consultant in Dubai</h1>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Our Services</a></p>
+            <p><a title="IT consultant in dubai services offered ecommerce" href="#" class="btn btn-primary px-4 py-3 mt-3">Our Services</a></p>
           </div>
         </div>
         </div>
@@ -108,7 +108,7 @@
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">Todays Talent, Tommorow Success</span>
             <h2 class="mb-4">Dynamic Website and eCommerce</h2>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Our Services</a></p>
+            <p><a title="IT consultant in dubai dynamic website" href="#" class="btn btn-primary px-4 py-3 mt-3">Our Services</a></p>
           </div>
         </div>
         </div>
@@ -127,7 +127,7 @@
     We have been a web design company in Dubai for 10 years offering affordable website development while also keeping up with the technology as the years go by. </p>
 								<p>We have an In-house team based in Dubai who works extensively hard to make sure the clients are satisfied and available through many communication mediums for any queries you may have.
                   Contact us right away!</p>
-								<p><a href="https://wa.me/971562728117?text=Website" class="btn btn-primary py-3 px-4">Contact us</a></p>
+								<p><a title="IT consultant in dubai" href="https://wa.me/971562728117?text=Website" class="btn btn-primary py-3 px-4">Contact us</a></p>
 							</div>
 						</div>
 					</div>
@@ -177,7 +177,7 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5">
           <div class="col-md-10 text-center heading-section heading-section-white ftco-animate">
-            <h2 class="mb-0">You Always Get the Best Guidance</h2>
+            <h2 class="mb-0">You Always Get the Best Project Consultant</h2>
           </div>
         </div>
     	</div>
@@ -263,7 +263,7 @@
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-insurance"></span></div>
 							<div class="text media-body">
 								<h3>IT Business Services</h3>
-								<p>We provide a full range of IT Business services and IT consulting.</p>
+								<p>We provide a full range of IT Business services and IT project consulting.</p>
 							</div>
 						</div>
 					</div>
@@ -281,7 +281,7 @@
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-rating"></span></div>
 							<div class="text media-body">
 								<h3>SEO &amp; Marketing</h3>
-								<p>We help you find the best keywords and assist you in marketing your website.</p>
+								<p>We help you find the best keywords and assist you in marketing your website project.</p>
 							</div>
 						</div>
 					</div>
@@ -305,7 +305,7 @@
             <h2 class="mb-3 mb-md-0">IT Consultancy</h2>
           </div>
           <div class="col-lg-3 col-md-4 ftco-animate">
-          	<p class="mb-0"><a href="https://wa.me/971562728117?text=WebsiteQuote" class="btn btn-white py-3 px-4">Request Quote</a></p>
+          	<p class="mb-0"><a title="IT consultant in dubai" href="https://wa.me/971562728117?text=WebsiteQuote" class="btn btn-white py-3 px-4">Request Quote</a></p>
           </div>
         </div>
     	</div>
@@ -324,9 +324,9 @@
     			<div class="col-md-3">
     				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-2.jpg);">
     					<div class="overlay"></div>
-    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+    					<a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
 	    					<span>Web Design</span>
 	    				</div>
     				</div>
@@ -334,9 +334,9 @@
   				<div class="col-md-3">
     				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-1.jpg);">
     					<div class="overlay"></div>
-    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+    					<a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
 	    					<span>Web Design</span>
 	    				</div>
     				</div>
@@ -345,9 +345,9 @@
     			<div class="col-md-3">
     				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-3.jpg);">
     					<div class="overlay"></div>
-    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+    					<a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
 	    					<span>Web Design</span>
 	    				</div>
     				</div>
@@ -355,9 +355,9 @@
 					<div class="col-md-3">
     				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-4.jpg);">
     					<div class="overlay"></div>
-    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+    					<a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
 	    					<span>Web Design</span>
 	    				</div>
     				</div>
@@ -365,9 +365,9 @@
   				<div class="col-md-3">
     				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-5.jpg);">
     					<div class="overlay"></div>
-    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+    					<a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
 	    					<span>Web Design</span>
 	    				</div>
     				</div>
@@ -375,9 +375,9 @@
   				<div class="col-md-3">
     				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-6.jpg);">
     					<div class="overlay"></div>
-    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+    					<a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
 	    					<span>Web Design</span>
 	    				</div>
     				</div>
@@ -385,9 +385,9 @@
   				<div class="col-md-3">
     				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-7.jpg);">
     					<div class="overlay"></div>
-    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+    					<a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
 	    					<span>Web Design</span>
 	    				</div>
     				</div>
@@ -395,9 +395,9 @@
   				<div class="col-md-3">
     				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-8.jpg);">
     					<div class="overlay"></div>
-    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+    					<a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
 	    					<span>Web Design</span>
 	    				</div>
     				</div>
@@ -417,7 +417,7 @@
 				<div class="row">
           <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="/" class="block-20 d-flex align-items-end" style="background-image: url('images/image_1.jpg');">
+              <a title="IT consultant in dubai" href="/" class="block-20 d-flex align-items-end" style="background-image: url('images/image_1.jpg');">
 								<div class="meta-date text-center p-2">
                   <span class="day">26</span>
                   <span class="mos">June</span>
@@ -425,14 +425,14 @@
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#">Build your online website</a></h3>
+                <h3 class="heading"><a title="IT consultant in dubai" href="#">Build your online website</a></h3>
                 <p>Building online website for your company and brand, we help you get started with your business.</p>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="/" class="block-20 d-flex align-items-end" style="background-image: url('images/image_2.jpg');">
+              <a title="IT consultant in dubai" href="/" class="block-20 d-flex align-items-end" style="background-image: url('images/image_2.jpg');">
 								<div class="meta-date text-center p-2">
                   <span class="day">2</span>
                   <span class="mos">Aug</span>
@@ -440,14 +440,14 @@
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#">How to find an IT Consultant</a></h3>
+                <h3 class="heading"><a title="IT consultant in dubai" href="#">How to find an IT Consultant</a></h3>
                 <p>Finding an IT consultant with a wide range of skills is a difficult task, we can help you.</p>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="/" class="block-20 d-flex align-items-end" style="background-image: url('images/image_3.jpg');">
+              <a title="IT consultant in dubai" href="/" class="block-20 d-flex align-items-end" style="background-image: url('images/image_3.jpg');">
 								<div class="meta-date text-center p-2">
                   <span class="day">16</span>
                   <span class="mos">May</span>
@@ -455,7 +455,7 @@
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#">Dynamic website or eCommerce</a></h3>
+                <h3 class="heading"><a title="IT consultant in dubai" href="#">Dynamic website or eCommerce</a></h3>
                 <p>Contact us for a few consultation and we can help you decide if you need a dynamic website or eCommerce</p>
               </div>
             </div>
@@ -533,8 +533,8 @@
             	<div class="block-23 mb-3">
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Dubai UAE</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+97156 272 8117</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">saharkiz@gmail.com</span></a></li>
+	                <li><a title="IT consultant in dubai" href="#"><span class="icon icon-phone"></span><span class="text">+97156 272 8117</span></a></li>
+	                <li><a title="IT consultant in dubai" href="#"><span class="icon icon-envelope"></span><span class="text">saharkiz@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -543,10 +543,10 @@
             <div class="ftco-footer-widget mb-5">
               <h2 class="ftco-heading-2">Services</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Dynamic Website</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Mobile Application</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>eCommerce Website</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Company Portal</a></li>
+                <li><a title="IT consultant in dubai" href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Dynamic Website</a></li>
+                <li><a title="IT consultant in dubai" href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Mobile Application</a></li>
+                <li><a title="IT consultant in dubai" href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>eCommerce Website</a></li>
+                <li><a title="IT consultant in dubai" href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Company Portal</a></li>
               </ul>
             </div>
           </div>
@@ -554,11 +554,11 @@
             <div class="ftco-footer-widget mb-5 ml-md-4">
               <h2 class="ftco-heading-2">Links</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>About</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Services</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Projects</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact</a></li>
+                <li><a title="IT consultant in dubai" href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
+                <li><a title="IT consultant in dubai" href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>About</a></li>
+                <li><a title="IT consultant in dubai" href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Services</a></li>
+                <li><a title="IT consultant in dubai" href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Projects</a></li>
+                <li><a title="IT consultant in dubai" href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact</a></li>
               </ul>
             </div>
           </div>
@@ -566,9 +566,9 @@
             <div class="ftco-footer-widget mb-5">
             	<h2 class="ftco-heading-2 mb-0">Connect With Us</h2>
             	<ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a title="IT consultant in dubai twitter" href="#"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a title="IT consultant in dubai facebook" href="#"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a title="IT consultant in dubai instagram" href="#"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>
