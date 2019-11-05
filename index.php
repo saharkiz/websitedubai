@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Aresh Saharkhiz Project Management</title>
+    <title>Aresh Saharkhiz Project Management | Build eCommerce software</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="geo.placename" content="Dubai" /><meta name="geo.position" content="25.191324;55.2851233" /><meta name="geo.region" content="AE" />
-    <meta name="description" content="We are a Dubai based Website Development company that build excellent Dynamic and Ecommerce websites at affordable rates. We also guide new or existing websites on how to market their websites to generate more traffic. Quality and Fast Printing services are also provided. We also cover Abu Dhabi, Sharjah, Ajman, and Fujairah. %"/>
-
+    <meta name="description" content="We are a Dubai based software Development company that build excellent Dynamic software and Ecommerce websites at affordable rates. We also guide new or existing websites on how to market their websites to generate more traffic. We cover Abu Dhabi, Sharjah, Ajman, Dubai and Fujairah"/>
+    <meta name="keywords" content="software dubai, carrefour dubai, shop website, build website, company portal, company website dubai, easy website dubai, web page dubai"/>
+    <meta name="author" content="metatags generator">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://websitedubai.herokuapp.com/" />
+    <link rel="icon" href="images/loc.png" type="image/png" sizes="16x16">
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900&display=swap" rel="stylesheet">
-
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
 
@@ -72,12 +75,12 @@
         </form>
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav mr-auto">
-	        	<li class="nav-item active"><a href="index.html" class="nav-link pl-0">Home</a></li>
-	        	<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	        	<li class="nav-item"><a href="project.html" class="nav-link">Projects</a></li>
-	        	<li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
-	        	<li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	        	<li class="nav-item active"><a href="/" class="nav-link pl-0">Home</a></li>
+	        	<li class="nav-item"><a href="/" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="/" class="nav-link">Projects</a></li>
+	        	<li class="nav-item"><a href="/" class="nav-link">Services</a></li>
+	        	<li class="nav-item"><a href="/" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="/" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -124,7 +127,7 @@
     We have been a web design company in Dubai for 10 years offering affordable website development while also keeping up with the technology as the years go by. </p>
 								<p>We have an In-house team based in Dubai who works extensively hard to make sure the clients are satisfied and available through many communication mediums for any queries you may have.
                   Contact us right away!</p>
-								<p><a href="#" class="btn btn-primary py-3 px-4">Contact us</a></p>
+								<p><a href="https://wa.me/971562728117?text=Website" class="btn btn-primary py-3 px-4">Contact us</a></p>
 							</div>
 						</div>
 					</div>
@@ -241,8 +244,8 @@
 						<div class="services-2 noborder-left text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
 							<div class="text media-body">
-								<h3>Business Analysis</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>Company Website</h3>
+								<p>We create company websites for your business.</p>
 							</div>
 						</div>
 					</div>
@@ -250,8 +253,8 @@
 						<div class="services-2 text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-business"></span></div>
 							<div class="text media-body">
-								<h3>Business Consulting</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>Company Portal</h3>
+								<p>We build and recommend the best software for your company and internal users</p>
 							</div>
 						</div>
 					</div>
@@ -259,8 +262,8 @@
 						<div class="services-2 text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-insurance"></span></div>
 							<div class="text media-body">
-								<h3>Business Insurance</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>IT Business Services</h3>
+								<p>We provide a full range of IT Business services and IT consulting.</p>
 							</div>
 						</div>
 					</div>
@@ -268,8 +271,8 @@
 						<div class="services-2 noborder-left noborder-bottom text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-money"></span></div>
 							<div class="text media-body">
-								<h3>Global Investigation</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>Dynamic Websites</h3>
+								<p>We create dynamic websites for your brand and company.</p>
 							</div>
 						</div>
 					</div>
@@ -277,8 +280,8 @@
 						<div class="services-2 text-center noborder-bottom ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-rating"></span></div>
 							<div class="text media-body">
-								<h3>Audit &amp; Evaluation</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>SEO &amp; Marketing</h3>
+								<p>We help you find the best keywords and assist you in marketing your website.</p>
 							</div>
 						</div>
 					</div>
@@ -286,8 +289,8 @@
 						<div class="services-2 text-center noborder-bottom ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
 							<div class="text media-body">
-								<h3>Marketing Strategy</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+								<h3>Social Media Management</h3>
+								<p>We help you plan a monthly social media calendar, post and manage your overall social media platforms.</p>
 							</div>
 						</div>
 					</div>
@@ -302,7 +305,7 @@
             <h2 class="mb-3 mb-md-0">You Always Get the Best Guidance</h2>
           </div>
           <div class="col-lg-3 col-md-4 ftco-animate">
-          	<p class="mb-0"><a href="#" class="btn btn-white py-3 px-4">Request Quote</a></p>
+          	<p class="mb-0"><a href="https://wa.me/971562728117?text=WebsiteQuote" class="btn btn-white py-3 px-4">Request Quote</a></p>
           </div>
         </div>
     	</div>
@@ -414,7 +417,7 @@
 				<div class="row">
           <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_1.jpg');">
+              <a href="/" class="block-20 d-flex align-items-end" style="background-image: url('images/image_1.jpg');">
 								<div class="meta-date text-center p-2">
                   <span class="day">26</span>
                   <span class="mos">June</span>
@@ -422,38 +425,38 @@
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#">Finance And Legal Working Streams Occur Throughout</a></h3>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                <h3 class="heading"><a href="#">Build your online website</a></h3>
+                <p>Building online website for your company and brand, we help you get started with your business.</p>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_2.jpg');">
+              <a href="/" class="block-20 d-flex align-items-end" style="background-image: url('images/image_2.jpg');">
 								<div class="meta-date text-center p-2">
-                  <span class="day">26</span>
-                  <span class="mos">June</span>
+                  <span class="day">2</span>
+                  <span class="mos">Aug</span>
                   <span class="yr">2019</span>
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#">Finance And Legal Working Streams Occur Throughout</a></h3>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                <h3 class="heading"><a href="#">How to find an IT Consultant</a></h3>
+                <p>Finding an IT consultant with a wide range of skills is a difficult task, we can help you.</p>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_3.jpg');">
+              <a href="/" class="block-20 d-flex align-items-end" style="background-image: url('images/image_3.jpg');">
 								<div class="meta-date text-center p-2">
-                  <span class="day">26</span>
-                  <span class="mos">June</span>
+                  <span class="day">16</span>
+                  <span class="mos">May</span>
                   <span class="yr">2019</span>
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#">Finance And Legal Working Streams Occur Throughout</a></h3>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                <h3 class="heading"><a href="#">Dynamic website or eCommerce</a></h3>
+                <p>Contact us for a few consultation and we can help you decide if you need a dynamic website or eCommerce</p>
               </div>
             </div>
           </div>
@@ -598,8 +601,6 @@
   <script src="js/aos.js"></script>
   <script src="js/jquery.animateNumber.min.js"></script>
   <script src="js/scrollax.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
 
   </body>
