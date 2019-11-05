@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Aresh Saharkhiz Project Management | Build eCommerce software</title>
+    <title>A Saharkhiz Project Management | Build eCommerce software</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="geo.placename" content="Dubai" /><meta name="geo.position" content="25.191324;55.2851233" /><meta name="geo.region" content="AE" />
-    <meta name="description" content="We are a Dubai based software Development company that build excellent Dynamic software and Ecommerce websites at affordable rates. We also guide new or existing websites on how to market their websites to generate more traffic. We cover Abu Dhabi, Sharjah, Ajman, Dubai and Fujairah"/>
-    <meta name="keywords" content="software dubai, carrefour dubai, shop website, build website, company portal, company website dubai, easy website dubai, web page dubai"/>
+    <meta name="description" content="We are a Dubai based software Development company that build Dynamic software, Ecommerce websites, Android iOS. We cover Abu Dhabi, Sharjah, Ajman, Fujairah"/>
+    <meta name="keywords" content="software dubai, carrefour dubai, shop website, build website, company portal, company website dubai, easy website dubai, web page dubai, android, ios, mobile"/>
     <meta name="author" content="metatags generator">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://websitedubai.herokuapp.com/" />
@@ -93,8 +93,8 @@
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-7 ftco-animate">
-          	<span class="subheading">Welcome</span>
-            <h1 class="mb-4">We Are Best in Project Management</h1>
+          	<span class="subheading">IT Project Management</span>
+            <h1 class="mb-4">IT Consultant in Dubai</h1>
             <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Our Services</a></p>
           </div>
         </div>
@@ -107,7 +107,7 @@
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">Todays Talent, Tommorow Success</span>
-            <h1 class="mb-4">We Help to Grow Your Business</h1>
+            <h2 class="mb-4">Dynamic Website and eCommerce</h2>
             <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Our Services</a></p>
           </div>
         </div>
@@ -302,7 +302,7 @@
     	<div class="container">
     		<div class="row justify-content-center">
           <div class="col-lg-9 col-md-8 d-flex align-items-center heading-section heading-section-white ftco-animate">
-            <h2 class="mb-3 mb-md-0">You Always Get the Best Guidance</h2>
+            <h2 class="mb-3 mb-md-0">IT Consultancy</h2>
           </div>
           <div class="col-lg-3 col-md-4 ftco-animate">
           	<p class="mb-0"><a href="https://wa.me/971562728117?text=WebsiteQuote" class="btn btn-white py-3 px-4">Request Quote</a></p>
