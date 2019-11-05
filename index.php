@@ -1,348 +1,731 @@
 <!DOCTYPE html>
-<html class="cspio">
-<head>
-	<!---
-	Welcome to our free coming soon page template by http://comingsoonpage.com Get your free download at https://www.seedprod.com/free-coming-soon-page/
-	This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
-	http://creativecommons.org/licenses/by-nc-nd/4.0/
+<html lang="en">
+  <head>
+    <title>Aresh Saharkhiz Project Management</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	To get started follow this checklist.
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900&display=swap" rel="stylesheet">
 
-	1. Replace the *Page Title* on lines 23, 31 & 296
-	2. Set the *Page Description* on lines 26, 32 & 298
-	3. Set an optional *Logo* on lines 294 using the src attribute.
-	4. Set your *Facebook Profile* URL on line 312 using the href attribute.
-	5. Set your *Twitter Profile* URL on line 313 using the href attribute.
-	6. Set your *Email* on line 314 using the href attribute.
-	7. Set your background image on line 63, see file README.mb for additional background images.
-	8. Set your MailChimp email post URL on line 300 See video: https://youtu.be/YUdP1qfMot8
-	9. FTP to your Website. 
-	-->
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Coming Soon Page</title>
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
 
-	<meta name="generator" content="comingsoonpage.com 1.0.0" />
-	<meta name="description" content="">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="shortcut icon" href="https://static.comingsoonpage.com/cspio-assets/1.0.0/favicon.ico">
-	<meta property="og:url" content="" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="My Coming Soon Page" />
-	<meta property="og:description" content="" />
-	
-	<!-- Font Awesome CSS -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
 
-	<!-- Bootstrap and default Style -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
-	<link rel="stylesheet" href="https://static.comingsoonpage.com/cspio-assets/1.0.0/style.css">
+    <link rel="stylesheet" href="css/aos.css">
 
-	<!-- Google Fonts -->
-	<link class="gf-headline" href='https://fonts.googleapis.com/css?family=Pacifico:400&subset=' rel='stylesheet' type='text/css'>
-			
-	<!-- Animate CSS -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css">
-	
-	<!-- Calculated Styles -->
-	<style type="text/css">
-	
-	html {
-		height: 100%;
-		overflow: hidden;
-	}
+    <link rel="stylesheet" href="css/ionicons.min.css">
 
-	body {
-		height:100%;
-		overflow: auto;
-		-webkit-overflow-scrolling: touch;
-	}
-	
-	html{
-		height:100%;
-		background: #ffffff url(https://images.unsplash.com/photo-1449168013943-3a15804bb41c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=1958d4bfb59a246c6092ff0daabd284b); no-repeat center bottom fixed;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-	}
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+	  <div class="bg-top navbar-light">
+    	<div class="container">
+    		<div class="row no-gutters d-flex align-items-center align-items-stretch">
+    			<div class="col-md-4 d-flex align-items-center py-4">
+    				<a class="navbar-brand" href="/">ATSaharkhiz</a>
+    			</div>
+	    		<div class="col-lg-8 d-block">
+		    		<div class="row d-flex">
+					    <div class="col-md d-flex topper align-items-center align-items-stretch py-md-4">
+					    	<div class="icon d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
+					    	<div class="text">
+					    		<span>Email</span>
+						    	<span>saharkiz@gmail.com</span>
+						    </div>
+					    </div>
+					    <div class="col-md d-flex topper align-items-center align-items-stretch py-md-4">
+					    	<div class="icon d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
+						    <div class="text">
+						    	<span>Call</span>
+						    	<span>Call Us: +97156 272 8117</span>
+						    </div>
+					    </div>
+					    <div class="col-md topper d-flex align-items-center justify-content-end">
+					    	<p class="mb-0 d-block">
+					    		<a href="#" class="btn py-2 px-3 btn-primary">
+					    			<span>Free Consulting</span>
+					    		</a>
+					    	</p>
+					    </div>
+				    </div>
+			    </div>
+		    </div>
+		  </div>
+    </div>
+	  <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
+	    <div class="container d-flex align-items-center">
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+	      <form action="#" class="searchform order-lg-last">
+          <div class="form-group d-flex">
+            <input type="text" class="form-control pl-3" placeholder="Search">
+            <button type="submit" placeholder="" class="form-control search"><span class="ion-ios-search"></span></button>
+          </div>
+        </form>
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav mr-auto">
+	        	<li class="nav-item active"><a href="index.html" class="nav-link pl-0">Home</a></li>
+	        	<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="project.html" class="nav-link">Projects</a></li>
+	        	<li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
+	        	<li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+    <!-- END nav -->
 
-	#cspio-page{
-		background-color: rgba(0,0,0,0);
-	}
-	
-	.flexbox #cspio-page{
-		align-items: center;
-		justify-content: center;
-	}
+    <section class="home-slider owl-carousel">
+      <div class="slider-item" style="background-image:url(images/bg_1.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+          <div class="col-md-7 ftco-animate">
+          	<span class="subheading">Welcome</span>
+            <h1 class="mb-4">We Are Best in Project Management</h1>
+            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Our Services</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
 
-	.cspio body{
-		background: transparent;
-	}
+      <div class="slider-item" style="background-image:url(images/bg_2.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+          <div class="col-md-7 ftco-animate">
+          	<span class="subheading">Todays Talent, Tommorow Success</span>
+            <h1 class="mb-4">We Help to Grow Your Business</h1>
+            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Our Services</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+    </section>
 
-	.cspio body, .cspio body p{
-        font-family: Helvetica, Arial, sans-serif;
-		font-weight: 400;
-		font-style: ;
-        font-size: 20px;
-        line-height: 1.50em;
-        color:#ffffff;
-    }
-
-	::-webkit-input-placeholder {
-		font-family:Helvetica, Arial, sans-serif;
-		font-weight: 400;
-		font-style: ;
-	}
-
-	::-moz-placeholder {
-		font-family:Helvetica, Arial, sans-serif;
-		font-weight: 400;
-		font-style: ;
-	} 
-
-	:-ms-input-placeholder {
-		font-family:Helvetica, Arial, sans-serif;
-		font-weight: 400;
-		font-style: ;
-	} 
-
-	:-moz-placeholder {
-		font-family:Helvetica, Arial, sans-serif;
-		font-weight: 400;
-		font-style: ;
-	}
-
-    .cspio h1, .cspio h2, .cspio h3, .cspio h4, .cspio h5, .cspio h6{
-        font-family: 'Pacifico';
-        color:#ffffff;
-    }
-
-	#cspio-headline{
-		font-family: 'Pacifico';
-		font-weight: 400;
-		font-style: ;
-				font-size: 48px;
-		color:#ffffff;
-		line-height: 1.00em;
-	}
-
-	.cspio button{
-        font-family: Helvetica, Arial, sans-serif;
-		font-weight: 400;
-		font-style: ;
-    }
-	
-    .cspio a, .cspio a:visited, .cspio a:hover, .cspio a:active{
-		color: #ffffff;
-	}
-
-	#cspio-socialprofiles a {
-	  color: #ffffff;
-	}
-	.cspio .btn-primary,
-	.cspio .btn-primary:focus,
-	.gform_button,
-	#mc-embedded-subscribe, .submit-button {
-		color: black;
-		text-shadow: 0 -1px 0 rgba(255,255,255,0.3);
-		background-color: #ffffff;
-		background-image: -moz-linear-gradient(top,#ffffff,#d9d9d9);
-		background-image: -ms-linear-gradient(top,#ffffff,#d9d9d9);
-		background-image: -webkit-gradient(linear,0 0,0 100%,from(#ffffff),to(#d9d9d9));
-		background-image: -webkit-linear-gradient(top,#ffffff,#d9d9d9);
-		background-image: -o-linear-gradient(top,#ffffff,#d9d9d9);
-		background-image: linear-gradient(top,#ffffff,#d9d9d9);
-		background-repeat: repeat-x;
-		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#d9d9d9', GradientType=0);
-		border-color: #d9d9d9 #d9d9d9 #b3b3b3;
-		border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
-		*background-color: #d9d9d9;
-		filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
-	}
-
-	.cspio .btn-primary:hover,
-	.cspio .btn-primary:active,
-	.cspio .btn-primary.active,
-	.cspio .btn-primary.disabled,
-	.cspio .btn-primary[disabled],
-	.cspio .btn-primary:focus:hover,
-	.cspio .btn-primary:focus:active,
-	.cspio .btn-primary:focus.active,
-	.cspio .btn-primary:focus.disabled,
-	.cspio .btn-primary:focus[disabled],
-	#mc-embedded-subscribe:hover,
-	#mc-embedded-subscribe:active,
-	#mc-embedded-subscribe.active,
-	#mc-embedded-subscribe.disabled,
-	#mc-embedded-subscribe[disabled] {
-		background-color: #d9d9d9;
-		*background-color: #cccccc;
-	}
-
-	.cspio .btn-primary:active,
-	.cspio .btn-primary.active,
-	.cspio .btn-primary:focus:active,
-	.cspio .btn-primary:focus.active,
-	.gform_button:active,
-	.gform_button.active,
-	#mc-embedded-subscribe:active,
-	#mc-embedded-subscribe.active {
-		background-color: #bfbfbf;
-	}
-
-	.form-control,
-	.progress {
-		background-color: rgba(255, 255, 255, 0.85);
-	}
-
-	#cspio-progressbar span,
-	.countdown_section {
-		color: black;
-		text-shadow: 0 -1px 0 rgba(255,255,255,0.3);
-	}
-
-	.cspio .btn-primary:hover,
-	.cspio .btn-primary:active {
-		color: black;
-		text-shadow: 0 -1px 0 rgba(255,255,255,0.3);
-		border-color: #e6e6e6;
-	}
-
-	.cspio input[type='text']:focus {
-		webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075), 0 0 8px rgba(217,217,217,0.6);
-		-moz-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075), 0 0 8px rgba(217,217,217,0.6);
-		box-shadow: inset 0 1px 1px rgba(0,0,0,0.075), 0 0 8px rgba(217,217,217,0.6);
-	}
-    
-    #cspio-content {
-		display: none;
-		max-width: 600px;
-		background-color: #000000;
-		-webkit-border-radius: 2px;
-		border-radius: 2px;
-		-moz-background-clip: padding;
-		-webkit-background-clip: padding-box;
-		background-clip: padding-box;
-		background-color:transparent;
-	}
-    
-	.cspio .progress-bar,
-	.countdown_section,
-	.cspio .btn-primary,
-	.cspio .btn-primary:focus,
-	.gform_button {
-		background-image: none;
-		text-shadow: none;
-	}
-
-	.cspio input,
-	.cspio input:focus {
-		-webkit-box-shadow: none !important;
-		box-shadow: none !important;
-	}
-							
-	#cspio-page{
-	    background: -moz-radial-gradient(ellipse at center, rgba(0, 0, 0, 0.3) 0%,rgba(0, 0, 0, 0.2) 37%,rgba(0,0,0,0) 68%,rgba(0,0,0,0) 100%);
-	    background: -webkit-radial-gradient(ellipse at center, rgba(0, 0, 0, 0.3) 0%,rgba(0, 0, 0, 0.2) 37%,rgba(0,0,0,0) 68%,rgba(0,0,0,0) 100%);
-	    background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.3) 0%,rgba(0, 0, 0, 0.2) 37%,rgba(0,0,0,0) 68%,rgba(0,0,0,0) 100%);
-	}
-
-	.cspio body{
-		background: -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,0) 7%, rgba(0,0,0,0) 80%, rgba(0,0,0,0.23) 100%); 
-		background: -webkit-radial-gradient(center, ellipse cover,  rgba(0,0,0,0) 7%,rgba(0,0,0,0) 80%,rgba(0,0,0,0.23) 100%); 
-		background: radial-gradient(ellipse at center,  rgba(0,0,0,0) 7%,rgba(0,0,0,0) 80%,rgba(0,0,0,0.23) 100%); 
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#3b000000',GradientType=1 ); 
-	}
-
-	#cspio-subscribe-btn{
-	    background:transparent;
-	    border: 1px solid #fff !important;
-	    color: #fff;
-	}
-
-	#cspio-subscribe-btn:hover{
-	    background: rgba(255,255,255,0.2);
-	    color: #fff;
-	}
-
-	#cspio-credit img{
-		margin-left:auto;
-		margin-right:auto;
-		width:125px;
-		    margin-top: -4px;
-	}
-
-	#cspio-credit {
-		font-size:11px;
-	}
-
-	</style>
-
-	<!-- jQuery -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-
-	<!-- Modernizr -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-	
-	<!-- Google Analytics Code Goes Here-->
-</head>
-<body>
-	<div id="cspio-page">
-		<div id="cspio-content">
-			
-			<img id="cspio-logo" src="https://static.comingsoonpage.com/cspio-assets/1.0.0/seedprod-logo-white.png">
-			    				
-			<h1 id="cspio-headline">Coming Soon Page</h1>			    				
-			
-			<div id="cspio-description">Get ready! Something really cool is coming!</div>			    				
-			
-			<form id="cspio-form" action="" method="post">
-				<div id="cspio-field-wrapper">
-					<div class="row">
-						<div class="col-md-12 seperate"><div class="input-group"><input id="cspio-email" name="EMAIL" class="form-control input-lg form-el" type="email" placeholder="Email" required/>
-					<span class="input-group-btn"><button id="cspio-subscribe-btn" type="submit" class="btn btn-lg btn-primary form-el noglow">Notify Me</button></span></div></div>
+		<section class="ftco-section">
+			<div class="container">
+				<div class="row d-flex">
+					<div class="col-md-5 order-md-last wrap-about align-items-stretch">
+						<div class="wrap-about-border ftco-animate">
+							<div class="img" style="background-image: url(images/about.jpg); border"></div>
+							<div class="text">
+								<h3>Read Our Success Story for Inspiration</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+								<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
+								<p><a href="#" class="btn btn-primary py-3 px-4">Contact us</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-7 wrap-about pr-md-4 ftco-animate">
+          	<h2 class="mb-4">Our Main Features</h2>
+						<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
+						<div class="row mt-5">
+							<div class="col-lg-6">
+								<div class="services active text-center">
+									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-collaboration"></span></div>
+									<div class="text media-body">
+										<h3>Organization</h3>
+										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+									</div>
+								</div>
+								<div class="services text-center">
+									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
+									<div class="text media-body">
+										<h3>Risk Analysis</h3>
+										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="services text-center">
+									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
+									<div class="text media-body">
+										<h3>Marketing Strategy</h3>
+										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+									</div>
+								</div>
+								<div class="services text-center">
+									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-handshake"></span></div>
+									<div class="text media-body">
+										<h3>Capital Market</h3>
+										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
-			</form>
-			
-			<span id="cspio-privacy-policy-txt">We promise to never spam you.</span>
-			    						    			    								    			    			    				
-			<div id="cspio-socialprofiles">
-				<a href="" target="_blank"><i class="fa fa-facebook-official fa-2x"></i></a>			
-				<a href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>			
-				<a href="mailto:" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>			
 			</div>
+		</section>
 
-			<div id="cspio-credit">
-					<span>Created with <a target="_blank" href="https://www.comingsoonpage.com"><img id="aff" src="https://static.comingsoonpage.com/cspio-assets/1.0.0/comingsoonpage.com-logo.png" alt="Created by ComingSoonPage.com"></a> Free download <a target="_blank" href="http://www.seedprod.com/free-coming-soon-page/" style="text-decoration:underline" alt="Get your free coming soon page.">here.</a>
-				</span></div>
-									    									    			    			    							    			     			    		
-		</div><!-- end of #cspio-content -->
-	</div>
+		<section class="ftco-intro ftco-no-pb img" style="background-image: url(images/bg_3.jpg);">
+    	<div class="container">
+    		<div class="row justify-content-center mb-5">
+          <div class="col-md-10 text-center heading-section heading-section-white ftco-animate">
+            <h2 class="mb-0">You Always Get the Best Guidance</h2>
+          </div>
+        </div>
+    	</div>
+    </section>
+
+		<section class="ftco-counter" id="section-counter">
+    	<div class="container">
+    		<div class="row d-md-flex align-items-center justify-content-center">
+    			<div class="wrapper">
+    				<div class="row d-md-flex align-items-center">
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="705">0</strong>
+		                <span>Projects Completed</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="809">0</strong>
+		                <span>Satisfied Customer</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="335">0</strong>
+		                <span>Awwards Received</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="35">0</strong>
+		                <span>Years of Experienced</span>
+		              </div>
+		            </div>
+		          </div>
+	          </div>
+          </div>
+        </div>
+    	</div>
+    </section>
+
+    <section class="ftco-section">
+			<div class="container">
+				<div class="row justify-content-center mb-5 pb-2">
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            <h2 class="mb-4">Our Best Services</h2>
+            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+          </div>
+        </div>
+				<div class="row no-gutters">
+					<div class="col-lg-4 d-flex">
+						<div class="services-2 noborder-left text-center ftco-animate">
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
+							<div class="text media-body">
+								<h3>Business Analysis</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 d-flex">
+						<div class="services-2 text-center ftco-animate">
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-business"></span></div>
+							<div class="text media-body">
+								<h3>Business Consulting</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 d-flex">
+						<div class="services-2 text-center ftco-animate">
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-insurance"></span></div>
+							<div class="text media-body">
+								<h3>Business Insurance</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 d-flex">
+						<div class="services-2 noborder-left noborder-bottom text-center ftco-animate">
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-money"></span></div>
+							<div class="text media-body">
+								<h3>Global Investigation</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 d-flex">
+						<div class="services-2 text-center noborder-bottom ftco-animate">
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-rating"></span></div>
+							<div class="text media-body">
+								<h3>Audit &amp; Evaluation</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 d-flex">
+						<div class="services-2 text-center noborder-bottom ftco-animate">
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
+							<div class="text media-body">
+								<h3>Marketing Strategy</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="ftco-intro ftco-no-pb img" style="background-image: url(images/bg_1.jpg);">
+    	<div class="container">
+    		<div class="row justify-content-center">
+          <div class="col-lg-9 col-md-8 d-flex align-items-center heading-section heading-section-white ftco-animate">
+            <h2 class="mb-3 mb-md-0">You Always Get the Best Guidance</h2>
+          </div>
+          <div class="col-lg-3 col-md-4 ftco-animate">
+          	<p class="mb-0"><a href="#" class="btn btn-white py-3 px-4">Request Quote</a></p>
+          </div>
+        </div>
+    	</div>
+    </section>
+
+		<section class="ftco-section ftco-no-pb">
+			<div class="container-fluid px-0">
+				<div class="row no-gutters justify-content-center mb-5">
+          <div class="col-md-7 text-center heading-section ftco-animate">
+            <h2 class="mb-4">Our Recent Projects</h2>
+            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+            <p></p>
+          </div>
+        </div>
+				<div class="row no-gutters">
+    			<div class="col-md-3">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-2.jpg);">
+    					<div class="overlay"></div>
+    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+  				</div>
+  				<div class="col-md-3">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-1.jpg);">
+    					<div class="overlay"></div>
+    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+  				</div>
+
+    			<div class="col-md-3">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-3.jpg);">
+    					<div class="overlay"></div>
+    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+    			</div>
+					<div class="col-md-3">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-4.jpg);">
+    					<div class="overlay"></div>
+    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+  				</div>
+  				<div class="col-md-3">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-5.jpg);">
+    					<div class="overlay"></div>
+    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+  				</div>
+  				<div class="col-md-3">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-6.jpg);">
+    					<div class="overlay"></div>
+    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+  				</div>
+  				<div class="col-md-3">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-7.jpg);">
+    					<div class="overlay"></div>
+    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+  				</div>
+  				<div class="col-md-3">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-8.jpg);">
+    					<div class="overlay"></div>
+    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+  				</div>
+    		</div>
+			</div>
+		</section>
 
 
-	<script>
-		// Animate Delay
-		setTimeout(function(){ jQuery("#cspio-content").show().addClass('animated fadeIn'); }, 250);
+    <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" style="background-image: url(images/bg_5.jpg);" data-stellar-background-ratio="0.5">
+    	<div class="overlay"></div>
+    	<div class="container">
+    		<div class="row justify-content-end">
+    			<div class="col-md-6 py-5 px-md-5">
+    				<div class="py-md-5">
+		          <div class="heading-section heading-section-white ftco-animate mb-5">
+		            <h2 class="mb-4">Request A Quote</h2>
+		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+		          </div>
+		          <form action="#" class="appointment-form ftco-animate">
+		    				<div class="d-md-flex">
+			    				<div class="form-group">
+			    					<input type="text" class="form-control" placeholder="First Name">
+			    				</div>
+			    				<div class="form-group ml-md-4">
+			    					<input type="text" class="form-control" placeholder="Last Name">
+			    				</div>
+		    				</div>
+		    				<div class="d-md-flex">
+		    					<div class="form-group">
+			    					<div class="form-field">
+		        					<div class="select-wrap">
+		                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+		                    <select name="" id="" class="form-control">
+		                    	<option value="">Select Guidance</option>
+		                      <option value="">Finance</option>
+		                      <option value="">Business</option>
+		                      <option value="">Auto Loan</option>
+		                      <option value="">Real Estate</option>
+		                      <option value="">Other Services</option>
+		                    </select>
+		                  </div>
+			              </div>
+			    				</div>
+		    					<div class="form-group ml-md-4">
+			    					<input type="text" class="form-control" placeholder="Phone">
+			    				</div>
+		    				</div>
+		    				<div class="d-md-flex">
+		    					<div class="form-group">
+			              <textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Message"></textarea>
+			            </div>
+			            <div class="form-group ml-md-4">
+			              <input type="submit" value="Request A Quote" class="btn btn-white py-3 px-4">
+			            </div>
+		    				</div>
+		    			</form>
+		    		</div>
+    			</div>
+        </div>
+    	</div>
+    </section>
 
-		// Reseize	
-		function resize(){
-				$('head').append("<style id='form-style' type='text/css'></style>");
-				$('#form-style').html('.cspio .input-group-btn, .cspio .input-group{display:block;width:100%;}.cspio #cspio-subscribe-btn{margin-left:0;width:100%;display:block;}.cspio .input-group .form-control:first-child, .cspio .input-group-addon:first-child, .cspio .input-group-btn:first-child>.btn, .cspio .input-group-btn:first-child>.dropdown-toggle, .cspio .input-group-btn:last-child>.btn:not(:last-child):not(.dropdown-toggle) {border-bottom-right-radius: 4px;border-top-right-radius: 4px;}.cspio .input-group .form-control:last-child, .cspio .input-group-addon:last-child, .cspio .input-group-btn:last-child>.btn, .cspio .input-group-btn:last-child>.dropdown-toggle, .cspio .input-group-btn:first-child>.btn:not(:first-child) {border-bottom-left-radius: 4px;border-top-left-radius: 4px;}');
-		}
-		
-		$('#cspio-content').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', 
-			function(){
-				var width = $('#cspio-field-wrapper').width();
-				if(width < 480 && width != 0){
-					resize();
-				}
-			}
-		);
-	</script>
+		<section class="ftco-section bg-light">
+			<div class="container">
+				<div class="row justify-content-center mb-5 pb-2">
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            <h2 class="mb-4"><span>Recent</span> Blog</h2>
+            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+          </div>
+        </div>
+				<div class="row">
+          <div class="col-md-6 col-lg-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_1.jpg');">
+								<div class="meta-date text-center p-2">
+                  <span class="day">26</span>
+                  <span class="mos">June</span>
+                  <span class="yr">2019</span>
+                </div>
+              </a>
+              <div class="text bg-white p-4">
+                <h3 class="heading"><a href="#">Finance And Legal Working Streams Occur Throughout</a></h3>
+                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                <div class="d-flex align-items-center mt-4">
+	                <p class="mb-0"><a href="#" class="btn btn-primary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
+	                <p class="ml-auto mb-0">
+	                	<a href="#" class="mr-2">Admin</a>
+	                	<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
+	                </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_2.jpg');">
+								<div class="meta-date text-center p-2">
+                  <span class="day">26</span>
+                  <span class="mos">June</span>
+                  <span class="yr">2019</span>
+                </div>
+              </a>
+              <div class="text bg-white p-4">
+                <h3 class="heading"><a href="#">Finance And Legal Working Streams Occur Throughout</a></h3>
+                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                <div class="d-flex align-items-center mt-4">
+	                <p class="mb-0"><a href="#" class="btn btn-primary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
+	                <p class="ml-auto mb-0">
+	                	<a href="#" class="mr-2">Admin</a>
+	                	<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
+	                </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_3.jpg');">
+								<div class="meta-date text-center p-2">
+                  <span class="day">26</span>
+                  <span class="mos">June</span>
+                  <span class="yr">2019</span>
+                </div>
+              </a>
+              <div class="text bg-white p-4">
+                <h3 class="heading"><a href="#">Finance And Legal Working Streams Occur Throughout</a></h3>
+                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                <div class="d-flex align-items-center mt-4">
+	                <p class="mb-0"><a href="#" class="btn btn-primary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
+	                <p class="ml-auto mb-0">
+	                	<a href="#" class="mr-2">Admin</a>
+	                	<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
+	                </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+			</div>
+		</section>
 
-	</body>
+		<section class="ftco-section testimony-section">
+      <div class="container">
+        <div class="row justify-content-center mb-5">
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            <h2 class="mb-4">Our Clients Says</h2>
+            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+          </div>
+        </div>
+        <div class="row ftco-animate justify-content-center">
+          <div class="col-md-12">
+            <div class="carousel-testimony owl-carousel">
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img" style="background-image: url(images/person_1.jpg)">
+                  </div>
+                  <div class="text pl-4">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="name">Racky Henderson</p>
+                    <span class="position">Father</span>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img" style="background-image: url(images/person_2.jpg)">
+                  </div>
+                  <div class="text pl-4">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="name">Henry Dee</p>
+                    <span class="position">Businesswoman</span>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img" style="background-image: url(images/person_3.jpg)">
+                  </div>
+                  <div class="text pl-4">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="name">Mark Huff</p>
+                    <span class="position">Businesswoman</span>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img" style="background-image: url(images/person_4.jpg)">
+                  </div>
+                  <div class="text pl-4">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="name">Rodel Golez</p>
+                    <span class="position">Businesswoman</span>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img" style="background-image: url(images/person_1.jpg)">
+                  </div>
+                  <div class="text pl-4">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="name">Ken Bosh</p>
+                    <span class="position">Businesswoman</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <footer class="ftco-footer ftco-bg-dark ftco-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-5">
+            	<h2 class="ftco-heading-2">Have a Questions?</h2>
+            	<div class="block-23 mb-3">
+	              <ul>
+	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+	              </ul>
+	            </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-5">
+              <h2 class="ftco-heading-2">Recent Blog</h2>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> June 27, 2019</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
+                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="block-21 mb-5 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> June 27, 2019</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
+                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-5 ml-md-4">
+              <h2 class="ftco-heading-2">Links</h2>
+              <ul class="list-unstyled">
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>About</a></li>
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Services</a></li>
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Projects</a></li>
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-5">
+            	<h2 class="ftco-heading-2">Subscribe Us!</h2>
+              <form action="#" class="subscribe-form">
+                <div class="form-group">
+                  <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
+                  <input type="submit" value="Subscribe" class="form-control submit px-3">
+                </div>
+              </form>
+            </div>
+            <div class="ftco-footer-widget mb-5">
+            	<h2 class="ftco-heading-2 mb-0">Connect With Us</h2>
+            	<ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
+                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+
+            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="js/google-map.js"></script>
+  <script src="js/main.js"></script>
+
+  </body>
 </html>
-
-<!-- This page was generated by ComingSoonPage.com | Learn more: http://www.comingsoonpage.com -->
