@@ -438,7 +438,7 @@
                <div class="col-md-3">
                   <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-2.jpg);">
                      <div class="overlay"></div>
-                     <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+                     <a title="IT consultant in dubai" href="/images/project-2.jpg" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
                         <h3><a title="IT consultant in dubai" href="#">Blue Wing Dubai</a></h3>
                         <span>Web Design</span>
@@ -448,7 +448,7 @@
                <div class="col-md-3">
                   <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-1.jpg);">
                      <div class="overlay"></div>
-                     <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+                     <a title="IT consultant in dubai" href="/images/project-1.jpg" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
                         <h3><a title="IT consultant in dubai" href="#">The Little Things</a></h3>
                         <span>Web Design</span>
@@ -458,7 +458,7 @@
                <div class="col-md-3">
                   <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-3.jpg);">
                      <div class="overlay"></div>
-                     <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+                     <a title="IT consultant in dubai" href="/images/project-3.jpg" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
                         <h3><a title="IT consultant in dubai" href="#">Bermuda diving center</a></h3>
                         <span>Web Design</span>
@@ -468,7 +468,7 @@
                <div class="col-md-3">
                   <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-4.jpg);">
                      <div class="overlay"></div>
-                     <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+                     <a title="IT consultant in dubai" href="/images/project-4.jpg" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
                         <h3><a title="IT consultant in dubai" href="#">Rubik Service</a></h3>
                         <span>Web Design</span>
@@ -478,7 +478,7 @@
                <div class="col-md-3">
                   <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-5.jpg);">
                      <div class="overlay"></div>
-                     <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+                     <a title="IT consultant in dubai" href="/images/project-5.jpg" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
                         <h3><a title="IT consultant in dubai" href="#">Seedology Cafe</a></h3>
                         <span>Web Design</span>
@@ -488,9 +488,9 @@
                <div class="col-md-3">
                   <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-6.jpg);">
                      <div class="overlay"></div>
-                     <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+                     <a title="IT consultant in dubai" href="/images/project-6.jpg" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
-                        <h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
+                        <h3><a title="IT consultant in dubai" href="#">Kikkerland</a></h3>
                         <span>Web Design</span>
                      </div>
                   </div>
@@ -498,9 +498,9 @@
                <div class="col-md-3">
                   <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-7.jpg);">
                      <div class="overlay"></div>
-                     <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+                     <a title="IT consultant in dubai" href="/images/project-7.jpg" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
-                        <h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
+                        <h3><a title="IT consultant in dubai" href="#">The V</a></h3>
                         <span>Web Design</span>
                      </div>
                   </div>
@@ -508,9 +508,9 @@
                <div class="col-md-3">
                   <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-8.jpg);">
                      <div class="overlay"></div>
-                     <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+                     <a title="IT consultant in dubai" href="/images/project-8.jpg" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
-                        <h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
+                        <h3><a title="IT consultant in dubai" href="#">Dubai Voluntary Diving Team</a></h3>
                         <span>Web Design</span>
                      </div>
                   </div>
