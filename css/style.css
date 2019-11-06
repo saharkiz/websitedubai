@@ -148,7 +148,7 @@ html {
   .block-7 .text-center {
       width: 100%
   }
-  
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
@@ -9354,7 +9354,8 @@ textarea.form-control {
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; }
+/*background-position: center center;*/
+ }
 
 .testimony-section {
   position: relative; }
