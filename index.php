@@ -440,7 +440,7 @@
                      <div class="overlay"></div>
                      <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
-                        <h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
+                        <h3><a title="IT consultant in dubai" href="#">Blue Wing Dubai</a></h3>
                         <span>Web Design</span>
                      </div>
                   </div>
@@ -450,7 +450,7 @@
                      <div class="overlay"></div>
                      <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
-                        <h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
+                        <h3><a title="IT consultant in dubai" href="#">The Little Things</a></h3>
                         <span>Web Design</span>
                      </div>
                   </div>
@@ -460,7 +460,7 @@
                      <div class="overlay"></div>
                      <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
-                        <h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
+                        <h3><a title="IT consultant in dubai" href="#">Bermuda diving center</a></h3>
                         <span>Web Design</span>
                      </div>
                   </div>
@@ -470,7 +470,7 @@
                      <div class="overlay"></div>
                      <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
-                        <h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
+                        <h3><a title="IT consultant in dubai" href="#">Rubik Service</a></h3>
                         <span>Web Design</span>
                      </div>
                   </div>
@@ -480,7 +480,7 @@
                      <div class="overlay"></div>
                      <a title="IT consultant in dubai" href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
                      <div class="text text-center p-4">
-                        <h3><a title="IT consultant in dubai" href="#">Branding &amp; Illustration Design</a></h3>
+                        <h3><a title="IT consultant in dubai" href="#">Seedology Cafe</a></h3>
                         <span>Web Design</span>
                      </div>
                   </div>
