@@ -515,6 +515,17 @@
                      </div>
                   </div>
                </div>
+               
+               <div class="col-md-3">
+                  <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-9.jpg);">
+                     <div class="overlay"></div>
+                     <a title="IT consultant in dubai for Curve Beauty Salon" href="/images/project-9.jpg" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+                     <div class="text text-center p-4">
+                        <h3><a title="IT consultant in dubai" href="#">Curve Beauty Salon</a></h3>
+                        <span>Web Design</span>
+                     </div>
+                  </div>
+               </div>
             </div>
          </div>
       </section>
